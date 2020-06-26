@@ -12,7 +12,10 @@ As a user, I want to be able to view my entire employee directory at once so tha
 - The app allows users to sort the directory by different categories 
 - The app allows users to search for a particular user 
 
+### Installation
+To use this portfolio, log into your GitHub account (if you don’t have a GitHub user profile, create one at https://github.com/join) and open this link in your browser: https://github.com/natashagils/userdirectory. Then click on the "Fork" button at the top right corner and wait until the repo is forked. 
+
 ### To Use the App 
-- Create a local version of the app 
-- Do npm install 
-- Do npm start in the parent directory 
+ To use this application, begin with installing node (npm install node) in your CLI and then view the application in your localhost (port 3000). 
+  
+ 
